@@ -1,3 +1,9 @@
+> **Note:** See [`AGENTS.md`](../AGENTS.md) at the repository root for the
+> full AI-agent operational guide (project layout, golden rules, coding
+> conventions, CI verification matrix, and per-pilot integration notes).
+> This file remains the canonical source for commit-message format and AI
+> attribution rules.
+
 # Copilot Instructions
 
 ## Commit Messages
